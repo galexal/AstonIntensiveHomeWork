@@ -1,0 +1,80 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+/build/
+/out/
+/target/
+
+# Maven
+/.mvn/
+mvnw
+mvnw.cmd
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Gradle
+.gradle/
+build/
+settings.gradle
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Other
+*.jar
+*.war
+*.ear
+*.db
+*.sqlite
+*.hprof
+*.swp
+*.swo
+*.lock
+*.orig
+*.bak
+
+# Javadoc
+/doc/
+
+# Other IDEs
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
